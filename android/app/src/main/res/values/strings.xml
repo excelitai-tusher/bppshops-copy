@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bpp_shop_final</string>
+    <string name="facebook_app_id">376476327855120</string>
+    <string name="fb_login_protocol_scheme">fb376476327855120</string>
+    <string name="facebook_client_token">267614525b76628f5dcea666dca370cc</string>
+</resources>
